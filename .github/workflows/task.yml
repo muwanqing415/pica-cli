@@ -1,6 +1,6 @@
 name: task
 
-on:
+on:1
   workflow_dispatch:
     inputs:
       PICA_DL_CONTENT:
